@@ -1,3 +1,4 @@
+#use only to check connection between mongoDb and code 
 import os
 from dotenv import load_dotenv
 from pymongo import MongoClient
