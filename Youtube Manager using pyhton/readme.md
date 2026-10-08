@@ -1,4 +1,4 @@
-# YouTube Manager
+# YouTube Manager using python
 
 A simple and practical **console-based YouTube Manager** built with Python. This project demonstrates how to build a menu-driven application with **CRUD operations** and persistent data storage using JSON.
 
